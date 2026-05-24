@@ -1,0 +1,15 @@
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\bin\Debug\net10.0\TheUrnMan.deps.json
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\bin\Debug\net10.0\TheUrnMan.dll
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\bin\Debug\net10.0\TheUrnMan.pdb
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\bin\Debug\net10.0\DeadworksManaged.Api.dll
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\bin\Debug\net10.0\Google.Protobuf.dll
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\TheUrnMan.csproj.AssemblyReference.cache
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\TheUrnMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\TheUrnMan.AssemblyInfoInputs.cache
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\TheUrnMan.AssemblyInfo.cs
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\TheUrnMan.csproj.CoreCompileInputs.cache
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\TheUrnMan.csproj.Up2Date
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\TheUrnMan.dll
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\refint\TheUrnMan.dll
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\TheUrnMan.pdb
+C:\Users\hudso\RiderProjects\DeadworksPlugins\TheUrnMan\TheUrnMan\obj\Debug\net10.0\ref\TheUrnMan.dll
